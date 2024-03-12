@@ -1,2 +1,2 @@
-# playground
-Place to play w/ front-end languages
+# clicker-counter
+How many times can you click?
